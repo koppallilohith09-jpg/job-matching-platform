@@ -1,0 +1,8 @@
+{
+  "name": "job-matching-platform",
+  "brand": "Shortlist",
+  "section": "Jobs & applications",
+  "subtitle": "Find the work that fits your skills.",
+  "port": 8904,
+  "description": "Skills-based job discovery, applications and employer workflows."
+}
